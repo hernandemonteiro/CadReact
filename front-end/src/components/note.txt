@@ -1,0 +1,1 @@
+Organização das pastas em componentes

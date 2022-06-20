@@ -16,3 +16,9 @@ aside.logo a {
 aside.logo a:hover {
     opacity: 0.8;
 }
+@media(max-width: 576px) {
+    aside.logo a {
+        text-align: center;
+        font-size: 2em;
+    }
+}

@@ -1,14 +1,9 @@
 {
-    "users": [
-        {
-            "id": 1,
-            "name": "Hernande Monteiro",
-            "email": "hmonteiro@novage.com"
-        },
-        {
-            "id": 2,
-            "name": "Maria Monteiro",
-            "email": "maria_monteiro@novage.com"
-        }
-    ]
+  "users": [
+    {
+      "name": "Hernande",
+      "email": "monteiro1998@live.com",
+      "id": 1
+    }
+  ]
 }
